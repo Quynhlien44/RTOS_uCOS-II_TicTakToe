@@ -1,0 +1,12 @@
+﻿  
+  Microsoft (R) Program Maintenance Utility Version 14.42.34436.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  --- Recompiling the application ---
+  rtos_1.c
+C:\SOFTWARE\uCOS-II\Ports\80x86\WIN32\VC\exercises\RTOS_1\rtos_1.c(268): warning C4244: '=': conversion from 'INT32U' to 'INT8U', possible loss of data
+C:\SOFTWARE\uCOS-II\Ports\80x86\WIN32\VC\exercises\RTOS_1\rtos_1.c(366): warning C4244: 'function': conversion from 'INT32U' to 'INT8U', possible loss of data
+C:\SOFTWARE\uCOS-II\Ports\80x86\WIN32\VC\exercises\RTOS_1\rtos_1.c(368): warning C4244: 'function': conversion from 'INT32U' to 'INT8U', possible loss of data
+C:\SOFTWARE\uCOS-II\Ports\80x86\WIN32\VC\exercises\RTOS_1\rtos_1.c(360): warning C4101: 'err': unreferenced local variable
+C:\SOFTWARE\uCOS-II\Ports\80x86\WIN32\VC\exercises\RTOS_1\rtos_1.c(385): warning C4244: 'function': conversion from 'INT32U' to 'INT8U', possible loss of data
+C:\SOFTWARE\uCOS-II\Ports\80x86\WIN32\VC\exercises\RTOS_1\rtos_1.c(375): warning C4101: 'err': unreferenced local variable
