@@ -61,11 +61,11 @@ This project demonstrates a real-time multiplayer game (similar to Connect 4) us
 ---
 
 ## Logic
-(logic.png)
+![Logic](./image/logic.png)
 
 ---
 
 ## Demo
-(demo.png)
+![Demo](./image/demo.png)
 
 ---
